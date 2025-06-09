@@ -1,6 +1,6 @@
-# 📘 Blockchain Fundamentals – Theoretical Part
+#  Blockchain Fundamentals – Theoretical Part
 
-## 🔗 Blockchain Basics
+##  Blockchain Basics
 
 ### What is a Blockchain?
 
@@ -11,7 +11,7 @@ A blockchain is a decentralized and immutable digital ledger that records transa
 1. **Supply Chain Management**: Blockchain provides transparency in the movement of goods, ensuring authenticity and improving traceability.
 2. **Digital Identity Verification**: Individuals can control their digital identity and share it securely, reducing identity theft.
 
-## 🧱 Block Anatomy
+##  Block Anatomy
 
 ```
 +----------------------------+
@@ -31,7 +31,7 @@ A blockchain is a decentralized and immutable digital ledger that records transa
 
 The Merkle root is a hash of all transactions in a block, combined in a binary tree structure. It allows efficient and secure verification of data integrity.
 
-## ⚙️ Consensus Conceptualization
+##  Consensus Conceptualization
 
 ### What is Proof of Work and why does it require energy?
 
